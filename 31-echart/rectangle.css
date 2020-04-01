@@ -1,0 +1,12 @@
+html,body{
+  margin:0;
+  padding:0;
+  width:1000px;
+  height:600px;
+
+}
+#main{
+  height:80%;
+  margin:30px auto;
+  width:90%
+}
